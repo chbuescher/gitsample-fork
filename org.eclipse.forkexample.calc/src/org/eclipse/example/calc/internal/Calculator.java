@@ -38,6 +38,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		// Kommentar Andreas vom Hofe
+		// i want more
 		new Equals();
 		new Minus();
 		new Plus();
