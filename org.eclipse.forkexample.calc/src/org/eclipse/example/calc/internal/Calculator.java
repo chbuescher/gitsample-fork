@@ -8,7 +8,6 @@
  * http://www.eclipse.org/legal/epl-v10.html
  * forked Copy
  * Kommentar ergänzt
- * jnofdsnbogn
  *******************************************************************************/
 package org.eclipse.example.calc.internal;
 
